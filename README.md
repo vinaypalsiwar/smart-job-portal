@@ -68,6 +68,3 @@ Spring Security
 
 JWT Authentication
 
-Search (Optional)
-
-ElasticSearch for advanced job and candidate search
